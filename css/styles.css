@@ -52,3 +52,23 @@
     font-weight: bold;
     display: block;
 }
+
+.signup{
+    padding: 15px 130px;
+    margin: 10px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: #2C74D3;
+    color: #F0F0F0;
+    display: block;
+    border: none;
+}
+
+.signup:hover{
+    background-color: #F0F0F0;
+    color: #2C74D3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: block;
+    border: none;
+}
